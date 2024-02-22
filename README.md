@@ -1,7 +1,5 @@
-import time
-import random
-```
 - **Importing Libraries**: These lines import necessary libraries for the game:
+```
   - `pygame`: For game development functionalities.
   - `sys`: For system-related operations.
   - `time`: For time-related functions.

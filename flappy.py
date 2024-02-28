@@ -9,7 +9,7 @@ import random # Library for time-related functions
 pygame.init()
 
 # Frames per second
-clock = pygame.time.Clock()
+clock = pygame. time.Clock()
 
 
 # Function to draw

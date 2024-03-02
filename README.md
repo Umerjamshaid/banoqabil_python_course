@@ -49,3 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 You can customize this README according to your specific implementation and preferences. Make sure to include relevant information about the game, instructions on how to play, installation steps, and any other relevant details. Additionally, you can provide links to the original game (if applicable), credits for assets used, and information about contributing to the project.
+
+
+instructions, installation, controls, objectives, features, how-to-play, high-score, demo, assets, credits, license, MIT-license.
